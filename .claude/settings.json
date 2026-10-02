@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "laugh-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "laughlaugh820-arch/claude-plugins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "agy-explain@laugh-plugins": true
+  }
+}
